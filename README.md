@@ -1,6 +1,7 @@
-# natur
+# Natur.
 
 A new Flutter project.
+An application that works out G-Auth in FLutter x Firebase 
 
 ## Getting Started
 
