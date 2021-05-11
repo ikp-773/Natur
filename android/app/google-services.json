@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019883164725",
+    "project_id": "natur-4acb1",
+    "storage_bucket": "natur-4acb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019883164725:android:8100882b4f57cd98420d7c",
+        "android_client_info": {
+          "package_name": "com.ikp773.natur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019883164725-v1lokcrbokgr4r47q3rgujf0kdil0e2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKro_vhSrE0dg6KZi64T_3rHpRUg8diro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019883164725-v1lokcrbokgr4r47q3rgujf0kdil0e2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
